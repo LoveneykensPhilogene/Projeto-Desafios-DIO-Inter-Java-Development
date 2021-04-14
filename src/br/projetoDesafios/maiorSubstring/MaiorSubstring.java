@@ -21,6 +21,7 @@ public class MaiorSubstring {
             if (s1.length() > s2.length()) {
                 max = s1;
                 min = s2;
+
             } else {
                 max = s2;
                 min = s1;
