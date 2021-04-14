@@ -31,9 +31,7 @@ public class AnaliseDeNumeros {
         List<Integer> impares = new ArrayList<>();
         List<Integer> positivos = new ArrayList<>();
 
-        // {numero1,numero2,numero3,numero4,numero5};
-
-//continue a solução
+         //continue a solução
         for (i = 0; i < numeros.size(); i++) {
 
             if(numeros.get(i)>0){

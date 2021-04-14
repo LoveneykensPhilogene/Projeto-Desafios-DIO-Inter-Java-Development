@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class OutroExemploDeAnaliseDeNumeros {
     public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
-//declare suas variaveis corretamente
+       //declare suas variaveis corretamente
         int numero1 = leitor.nextInt();
         int numero2 = leitor.nextInt();
         int numero3 = leitor.nextInt();
@@ -18,7 +18,7 @@ public class OutroExemploDeAnaliseDeNumeros {
         int numerosPositivos = 0;
         int  numerosNegativos = 0;
 
-//continue a solução
+        //continue a solução
 
         if(numero1%2==0){
             numerosPares++;
