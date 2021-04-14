@@ -3,6 +3,7 @@ package br.projetoDesafios.contagemRepetida;
 import java.util.*;
 
 public class ContagemRepetida {
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         sc.useLocale(Locale.ENGLISH);
