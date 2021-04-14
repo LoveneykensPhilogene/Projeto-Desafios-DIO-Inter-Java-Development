@@ -13,15 +13,15 @@
 
 <li><a href="https://github.com/LoveneykensPhilogene/Projeto-Desafios-DIO-Inter-Java-Development ">AnaliseDeNumeros</a></li>
 
-<li><a href=" https://github.com/LoveneykensPhilogene/Projeto-Desafios-DIO-Inter-Java-Development">ConjuntosBonsRuins</a></li>
+<li><a href="https://github.com/LoveneykensPhilogene/Projeto-Desafios-DIO-Inter-Java-Development">ConjuntosBonsRuins</a></li>
 
 <li><a href="https://github.com/LoveneykensPhilogene/Projeto-Desafios-DIO-Inter-Java-Development ">ContagemRepetida</a></li>
 
-<li><a href=" https://github.com/LoveneykensPhilogene/Projeto-Desafios-DIO-Inter-Java-Development">Divisorio</a></li>
+<li><a href="https://github.com/LoveneykensPhilogene/Projeto-Desafios-DIO-Inter-Java-Development">Divisorio</a></li>
 
-<li><a href=" https://github.com/LoveneykensPhilogene/Projeto-Desafios-DIO-Inter-Java-Development">EntrevistaEmbaraçosa</a></li>
+<li><a href="https://github.com/LoveneykensPhilogene/Projeto-Desafios-DIO-Inter-Java-Development">EntrevistaEmbaraçosa</a></li>
 
-<li><a href=" https://github.com/LoveneykensPhilogene/Projeto-Desafios-DIO-Inter-Java-Development">MaiorSubstring</a></li>
+<li><a href="https://github.com/LoveneykensPhilogene/Projeto-Desafios-DIO-Inter-Java-Development">MaiorSubstring</a></li>
 
 <li><a href="https://github.com/LoveneykensPhilogene/Projeto-Desafios-DIO-Inter-Java-Development ">ValidarSenha</a></li>
 </ul>
