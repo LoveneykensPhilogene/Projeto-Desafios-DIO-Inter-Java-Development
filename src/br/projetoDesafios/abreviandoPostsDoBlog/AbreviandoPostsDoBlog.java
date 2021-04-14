@@ -10,6 +10,7 @@ public class AbreviandoPostsDoBlog {
 
         List<String> alfabeto = new ArrayList(Arrays.asList("abcdefghijklmnopqrstuvwxyz".split("")));
         List<String> entradas = new ArrayList<String>();
+
         Scanner sc = new Scanner(System.in,"ISO-8859-1");
 
         while(true) {
