@@ -23,6 +23,7 @@ public class EntrevistaEmbaracosaComScanner {
                 if (proximaPalavra.substring (0 , j).endsWith(proximaPalavra.substring (j))) {
                     System.out.println(proximaPalavra.substring ( 0 , j));
                     palavrasRepetidas =  true ;
+
                 }
             }
 
